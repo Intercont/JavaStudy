@@ -1,4 +1,4 @@
-package hackerrank.javareflection;
+package hackerrank.javareflectionpattern;
 
 public class Student {
 

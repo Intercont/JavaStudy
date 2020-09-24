@@ -1,4 +1,4 @@
-package hackerrank.javareflection;
+package hackerrank.javareflectionpattern;
 
 import java.lang.reflect.Method;
 import java.util.ArrayList;
