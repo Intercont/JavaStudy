@@ -1,8 +1,6 @@
-package io.javabrains;
+package io.javabrains.unit1;
 
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.List;
 
 public class Unit1Exercise {

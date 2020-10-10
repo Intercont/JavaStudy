@@ -1,4 +1,4 @@
-package io.javabrains;
+package io.javabrains.unit1;
 
 public class RunnableExample {
 
@@ -15,8 +15,5 @@ public class RunnableExample {
 
         Thread lambdaThread = new Thread(() -> System.out.println("Printed inside Lambda Runnable"));
         lambdaThread.run();
-
-
     }
-
 }

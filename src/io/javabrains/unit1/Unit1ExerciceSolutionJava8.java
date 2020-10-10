@@ -1,9 +1,10 @@
-package io.javabrains;
+package io.javabrains.unit1;
 
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+import java.util.function.Predicate;
 
 public class Unit1ExerciceSolutionJava8 {
 
