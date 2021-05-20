@@ -42,6 +42,22 @@ public class Produto {
         return categoria;
     }
 
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setStatus(Status status) {
+        this.status = status;
+    }
+
+    public void setPreco(BigDecimal preco) {
+        this.preco = preco;
+    }
+
+    public void setCategoria(Categoria categoria) {
+        this.categoria = categoria;
+    }
+
     public void inativar() {
         System.out.println("Inativado: " + getNome());
         this.status = Status.INATIVO;
